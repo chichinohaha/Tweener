@@ -2,7 +2,7 @@
 
 **NodeTransformationComplexCell**组件能够获取目标为当前节点的**节点变化组合**缓动。
 
-![image-20201109144138822](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\nodeTransformationComplexCell.png)
+![image-20201109144138822](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/nodeTransformationComplexCell.png)
 
 
 

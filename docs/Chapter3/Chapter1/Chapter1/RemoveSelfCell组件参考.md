@@ -2,7 +2,7 @@
 
 **RemoveSelfCell**组件能够获取让当前节点移除的缓动。
 
-![image-20201108130623255](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\removeSelf.png)
+![image-20201108130623255](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/removeSelf.png)
 
 ## 选项
 

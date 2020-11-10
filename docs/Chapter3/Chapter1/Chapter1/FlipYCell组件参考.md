@@ -1,7 +1,7 @@
 # FlipYCell组件参考
 
 **FlipYCell**组件能够获取让当前节点垂直翻转的缓动。
-![image-20201108125355188](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\flipy.png)
+![image-20201108125355188](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/flipy.png)
 
 ## 选项
 

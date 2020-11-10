@@ -2,7 +2,7 @@
 
 **CallbackComplexCell**组件能够获取目标为当前节点的**间隔地调用回调**的缓动。
 
-![image-20201108195502627](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\callbackComplexCell.png)
+![image-20201108195502627](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/callbackComplexCell.png)
 
 ## 组件的选项
 

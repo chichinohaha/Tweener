@@ -2,11 +2,11 @@
 
 **TextComplexCell**组件能够获取目标为当前节点的**文本生命组合**缓动。
 
-![](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\textComplexCell.png)
+![](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell.png)
 
 （该复杂细胞的缓动数据过于复杂,目前尚未开发编辑界面，对新手不太友好，请敬请期待编辑界面！）
 
-![image-20201110170816101](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\textComplexCell1.png)
+![image-20201110170816101](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell1.png)
 
 ## 组件的选项
 
@@ -116,7 +116,7 @@
 | 文本                   | 富文本即将要显示的内容<br />值得注意的是富文本将根据标签生成多个隐藏节点<br />意味着如果需要分开一段文字为多个隐藏节点则需要使用标签<br />例如文本为“<"any">1</>123”<br />将会生成两个隐藏节点,<br />而文本为“1123”时只有一个隐藏节点。 |
 
 以上的数据可以这么概括。
-![image-20201110090747210](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\textComplexCell2.png)
+![image-20201110090747210](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell2.png)
 
 
 

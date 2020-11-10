@@ -48,7 +48,7 @@
 
 依次选中编辑器选项中的扩展/超级gizmo/打开Gizmo配置界面
 
-![image-20201108150734178](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\super-gizmo.png)
+![image-20201108150734178](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/super-gizmo.png)
 
 在该界面设置矩形的显示宽高以及触控区域的宽高。
 
