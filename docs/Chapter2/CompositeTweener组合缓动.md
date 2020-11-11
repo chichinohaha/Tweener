@@ -35,10 +35,10 @@
 ##### 方法
 
 - `play` `(...any):void` 播放缓动
-- `stop``():void` 停止当前的缓动
-- `onLoad``():void` 当附加到一个激活的节点上或者其节点第一次激活时候调用。
-- `getSubTweeners``(tweenerTag?: string): Tweener[]` 从`subTweeners`获取子缓动组件、默认获取符合子缓动标签的子缓动，也可以获取指定标签的子缓动。
+- `stop` `():void` 停止当前的缓动
+- `onLoad` `():void` 当附加到一个激活的节点上或者其节点第一次激活时候调用。
+- `getSubTweeners` `(tweenerTag?: string): Tweener[]` 从`subTweeners`获取子缓动组件、默认获取符合子缓动标签的子缓动，也可以获取指定标签的子缓动。
 - `getTween` `(...any):cc.Tween` 外部获取缓动。
-- `_getTween``():cc.Tween` 获取内部的缓动。
-- `getConsumptionTime``():number` 获得缓动消耗的时间。
+- `_getTween` `():cc.Tween` 获取内部的缓动。
+- `getConsumptionTime` `():number` 获得缓动消耗的时间。
 

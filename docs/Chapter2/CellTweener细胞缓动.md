@@ -20,11 +20,11 @@
 ##### 方法
 
 - `play` `(...any):void` 播放缓动
-- `stop``():void` 停止当前的缓动
-- `onLoad``():void` 当附加到一个激活的节点上或者其节点第一次激活时候调用。
+- `stop` `():void` 停止当前的缓动
+- `onLoad` `():void` 当附加到一个激活的节点上或者其节点第一次激活时候调用。
 - `getTween` `(...any):cc.Tween` 外部获取缓动的方法。
-- `getConsumptionTime``():number` 获得缓动消耗的时间。
+- `getConsumptionTime` `():number` 获得缓动消耗的时间。
 
 ##### 抽象方法
 
-- `_getTween``():cc.Tween` 获取内部的缓动。
+- `_getTween` `():cc.Tween` 获取内部的缓动。
