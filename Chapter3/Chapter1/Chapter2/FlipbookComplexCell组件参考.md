@@ -2,7 +2,7 @@
 
 **FlipbookComplexCell**组件能够获取目标为当前节点的**翻页动画**缓动。
 
-![image-20201109155856981](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\FlipbookComplexCell.png)
+![image-20201109155856981](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/FlipbookComplexCell.png)
 
 ## 组件的选项
 

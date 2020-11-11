@@ -2,7 +2,7 @@
 
 **ShowCell**组件能够获取让当前节点展示渲染的缓动。
 
-![image-20201108125624163](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\show.png)
+![image-20201108125624163](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/show.png)
 
 # 
 

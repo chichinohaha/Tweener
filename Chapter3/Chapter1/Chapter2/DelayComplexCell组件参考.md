@@ -2,7 +2,7 @@
 
 **DelayComplexCell**组件能够获取目标为当前节点的**延迟**缓动。
 
-![image-20201108235102469](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\delayComplexCell.png)
+![image-20201108235102469](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/delayComplexCell.png)
 
 ## 组件的选项
 

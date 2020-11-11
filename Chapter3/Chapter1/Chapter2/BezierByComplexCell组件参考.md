@@ -48,7 +48,7 @@
 
 依次选中编辑器选项中的扩展/超级gizmo/打开Gizmo配置界面
 
-![image-20201108150734178](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\super-gizmo.png)
+![image-20201108150734178](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/super-gizmo.png)
 
 在该界面设置矩形的显示宽高以及触控区域的宽高。
 
@@ -56,3 +56,7 @@
 可鼠标左键拖拽点，按着ctrl点击路径点可删除路径点。
 按着alt拖拽路径点可同时调整两个控制点。
 按着alt拖拽控制点可修改单个控制点。
+
+## 演示
+
+![image-20201108150734178](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/tweener-bezierBy.gif)

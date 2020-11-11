@@ -1,7 +1,7 @@
 # FlipXCell组件参考
 
 **FlipXCell**组件能够获取让当前节点水平翻转的缓动。
-![](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\flipx.png)
+![](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/flipx.png)
 
 ## 选项
 

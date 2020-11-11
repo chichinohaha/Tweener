@@ -1,7 +1,7 @@
 # HideCell组件参考
 
 **HideCell**组件能够获取让当前节点隐藏渲染的缓动。
-![image-20201108125529806](C:\Users\你失散的亲生父亲\Documents\tweenerGitBook\Sources\hide.png)
+![image-20201108125529806](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/hide.png)
 
 ## 选项
 
