@@ -56,3 +56,7 @@
 可鼠标左键拖拽点，按着ctrl点击路径点可删除路径点。
 按着alt拖拽路径点可同时调整两个控制点。
 按着alt拖拽控制点可修改单个控制点。
+
+## 演示
+
+![image-20201108150734178](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/tweener-bezierBy.gif)
