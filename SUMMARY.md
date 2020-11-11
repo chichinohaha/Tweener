@@ -13,7 +13,7 @@
     
 * [脚本开发流程](Chapter2/README.md)
 
-    - [Tweener缓动数据](Chapter2/Tweener缓动组件.md)
+    - [Tweener缓动组件](Chapter2/Tweener缓动组件.md)
 
     * [CellTweener细胞缓动](Chapter2/CellTweener细胞缓动.md)
     * [TweenInfo缓动数据](Chapter2/TweenInfo缓动数据.md)
