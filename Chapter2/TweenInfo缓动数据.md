@@ -14,7 +14,7 @@
 ##### 方法
 
 - `getConsumptionTime` `():number` 获取消耗的时间
-- `parseSerializedData``(data:any):void` 解析数据并且应用数据到自身。
+- `parseSerializedData` `(data:any):void` 解析数据并且应用数据到自身。
 
 ##### 抽象方法
 

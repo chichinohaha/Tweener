@@ -22,6 +22,6 @@
 ##### 抽象方法
 
 - `getTween` `(...any):cc.Tween` 外部获取缓动。
-- `_getTween``():cc.Tween` 获取内部的缓动。
-- `getConsumptionTime``():number` 获得缓动消耗的时间。
+- `_getTween` `():cc.Tween` 获取内部的缓动。
+- `getConsumptionTime` `():number` 获得缓动消耗的时间。
 
