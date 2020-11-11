@@ -18,6 +18,7 @@
 - [CallbackComplexCell组件参考](./Chapter1/Chapter2/CallbackComplexCell组件参考.md)
 - [DelayComplexCell组件参考](./Chapter1/Chapter2/DelayComplexCell组件参考.md)
 - [FlipbookComplexCell组件参考](./Chapter1/Chapter2/FlipbookComplexCell组件参考.md)
+- [NodeTransformationComplexCell组件参考](./Chapter1/Chapter2/NodeTransformationComplexCell组件参考.md)
 - [TextComplexCell组件参考](./Chapter1/Chapter2/TextComplexCell组件参考.md)
 
 最后了解组合缓动组件：
