@@ -1,6 +1,6 @@
 # TextComplexCell组件参考
 
-**TextComplexCell**组件能够获取目标为当前节点的**文本生命组合**缓动。
+**TextComplexCell**组件能够获取目标为当前节点的**文本种群组合**缓动。
 
 ![](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell.png)
 
