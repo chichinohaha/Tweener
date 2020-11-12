@@ -118,9 +118,12 @@
 以上的数据可以这么概括。
 ![image-20201110090747210](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell2.png)
 
+# 示例
 
+![forget.gif](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textExample.gif)
 
+请使用右键另存为来下载示例的json资源。
+[文本缓动数据资源](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/json/example.TextAnimationPopulationInfo.json)
 
-
-
+关于json资源如何使用请查看文档 [复杂细胞缓动与缓动数据](../../../Chapter1\复杂细胞缓动与缓动数据.md)
 
