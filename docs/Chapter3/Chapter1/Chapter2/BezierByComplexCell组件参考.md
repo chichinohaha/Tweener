@@ -2,7 +2,7 @@
 
 **BezierByComplexCell**组件能够获取目标为当前节点的**沿着路径点进行相对的贝塞尔曲线**的缓动。
 
-![image-20201108130922058](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/bezierBy.png)
+![image-20201108130922058](C:\Users\你失散的亲生父亲\AppData\Roaming\Typora\typora-user-images\image-20201108130922058.png)
 
 ## 组件的选项
 
@@ -40,7 +40,7 @@
 
 **BezierByComplexCell**组件在勾选正在编辑时会使用super-gizmo插件渲染gizmo，在视图界面能够直观的编辑路径信息和控制点信息。
 
-![image-20201108133529124](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/bezierByExample.png)
+![image-20201108133529124](C:\Users\你失散的亲生父亲\AppData\Roaming\Typora\typora-user-images\image-20201108133529124.png)
 
 #### 操作说明（就像钢笔工具一样）
 

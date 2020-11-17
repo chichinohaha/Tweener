@@ -1,6 +1,6 @@
 # TextComplexCell组件参考
 
-**TextComplexCell**组件能够获取目标为当前节点的**文本种群组合**缓动。
+**TextComplexCell**组件能够获取目标为当前节点的**文本生命组合**缓动。
 
 ![](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell.png)
 
@@ -118,12 +118,22 @@
 以上的数据可以这么概括。
 ![image-20201110090747210](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textComplexCell2.png)
 
-# 示例
 
-![forget.gif](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/textExample.gif)
 
-请使用右键另存为来下载示例的json资源。
-[文本缓动数据资源](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/json/example.TextAnimationPopulationInfo.json)
 
-关于json资源如何使用请查看文档 [复杂细胞缓动与缓动数据](../../../Chapter1\复杂细胞缓动与缓动数据.md)
+
+值得一提的是**文本种群组合缓动数据(TextAnimationPopulationInfo)**会对文本进行两次装饰，
+前置的静态文本修饰方法
+
+`static contentPreDecorator(str:string):string`
+
+开发者可以修改这个静态方法来实现对文本的预处理，如替换关键字。
+
+后置的动态文本修饰方法
+
+`contentPostDecorator(str:string):string`
+
+开发者可以修改这个方法来实现对文本的后处理，如将关键字替换成某个对象的数据
+
+![content.png](https://raw.githubusercontent.com/chichinohaha/Tweener/gh-pages/docs/Sources/content.png)
 
